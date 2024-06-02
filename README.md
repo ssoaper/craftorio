@@ -8,3 +8,5 @@ Texture Sources:<br>
 [Thermal Core](https://github.com/CoFH/ThermalCore) (Iron Gear Wheel)<br>
 [Create: New Age](https://gitlab.com/antarcticgardens/create-new-age) (Copper Cable)<br>
 [Iron Chests](https://github.com/progwml6/ironchest/tree/1.12) (Iron Chest)
+
+NOT AN OFFICIAL NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT
